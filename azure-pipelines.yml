@@ -1,5 +1,5 @@
 pool:
-  name: 'project pool'
+  name: 'project-pool'
   
 variables:
   version: 'backend_$(Build.BuildId)'
